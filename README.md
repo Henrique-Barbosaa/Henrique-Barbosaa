@@ -1,6 +1,4 @@
-# Henrique Barbosa — Backend Developer
-
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Henrique Barbosa — Backend Developer
 
 Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver problemas através do código. No último ano, mergulhei no desenvolvimento de software com foco total no backend, especializando-me em Java e no poder do Spring Framework para criar aplicações eficientes. Meu objetivo é transformar desafios de negócio em soluções de software funcionais e bem estruturadas, e estou em busca de uma primeira oportunidade para colaborar com uma equipe de tecnologia e crescer profissionalmente.
 
