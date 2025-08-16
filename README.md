@@ -32,7 +32,3 @@ Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver proble
 
 - **LinkedIn:** [henriquebarbosaa](https://www.linkedin.com/in/henriquebarbosaa/)
 - **E-mail:** henrique.lima.tech@gmail.com
-
----
-
-> Desenvolvedor Backend em formação, pronto para transformar desafios em soluções!
