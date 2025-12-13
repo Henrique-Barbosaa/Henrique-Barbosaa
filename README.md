@@ -11,9 +11,12 @@ Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver proble
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+  
   <!-- Frameworks/Ecossistema -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <!-- Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
