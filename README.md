@@ -26,7 +26,7 @@ Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver proble
 </p>
 
 - **Linguagens:** PHP, Typescript e Java
-- **Frameworks/Ecossistema:** Laravel e Spring
+- **Frameworks/Ecossistema:** Laravel, Spring e React.js
 - **APIs:** Desenvolvimento e consumo de APIs RESTful
 - **Banco de Dados e ORMs:** MySQL, PostgreSQL, Hibernate, Eloquent
 - **Ferramentas & DevOps:** Git, Docker
