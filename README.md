@@ -1,6 +1,6 @@
 ## 👨‍💻 Henrique Barbosa — Full Stack Developer
 
-Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver problemas através do código. No último ano, mergulhei no desenvolvimento de software com foco total no backend, especializando-me em Java e no poder do Spring Framework para criar aplicações eficientes. Atualmente tenho me dedicado ao desenvolvimento full stack com PHP, Laravel e Vue.JS.
+Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver problemas através do código. No último ano, mergulhei no desenvolvimento de software com foco total no backend, especializando-me em Java e no poder do Spring Framework para criar aplicações eficientes. Atualmente tenho me dedicado ao desenvolvimento full stack com PHP, Laravel, Javascript/Typescript e React.js.
 
 ---
 
@@ -22,7 +22,7 @@ Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver proble
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
-- **Linguagens:** PHP, Javascript e Java
+- **Linguagens:** PHP, Typescript e Java
 - **Frameworks/Ecossistema:** Laravel e Spring
 - **APIs:** Desenvolvimento e consumo de APIs RESTful
 - **Banco de Dados e ORMs:** MySQL, PostgreSQL, Hibernate, Eloquent
