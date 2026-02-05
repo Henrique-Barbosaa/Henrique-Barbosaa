@@ -25,10 +25,10 @@ Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver proble
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
-- **Linguagens:** PHP, Typescript e Java
-- **Frameworks/Ecossistema:** Laravel, Spring e React.js
+- **Linguagens:** Java, TypeScript, PHP
+- **Frameworks/Ecossistema:** Spring, Laravel, React.js
 - **APIs:** Desenvolvimento e consumo de APIs RESTful
-- **Banco de Dados e ORMs:** MySQL, PostgreSQL, Hibernate, Eloquent
+- **Banco de Dados e ORMs:** PostgreSQL, MySQL, Hibernate, Eloquent
 - **Ferramentas & DevOps:** Git, Docker
 
 ---
