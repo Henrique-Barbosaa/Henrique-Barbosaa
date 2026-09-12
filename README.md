@@ -7,16 +7,16 @@ Estudante de Tecnologia da Informação na UFRN e desenvolvedor com forte foco e
 ## 🚀 Skills & Tecnologias
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/inertiajs/inertiajs-original.svg" alt="Inertia" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inertiajs/inertiajs-original.svg" alt="Inertia" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Dcoker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
 - **Linguagens:** Java, TypeScript, PHP
