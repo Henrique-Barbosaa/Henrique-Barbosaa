@@ -1,6 +1,6 @@
 ## 👨‍💻 Henrique Barbosa — Full Stack Developer
 
-Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver problemas através do código. No último ano, mergulhei no desenvolvimento de software com foco total no backend, especializando-me em Java e no poder do Spring Framework para criar aplicações eficientes. Atualmente tenho me dedicado ao desenvolvimento full stack com PHP, Laravel, Typescript e Vue.js (Inertia).
+Estudante de Tecnologia da Informação na UFRN e desenvolvedor com forte foco em Back-end. Possuo experiência prática na construção de APIs RESTful utilizando o ecossistema Java (Spring Boot, Spring Security, MVC, JPA/Hibernate) e modelagem de bancos de dados relacionais como PostgreSQL. Atualmente, atuo como desenvolvedor Java, trabalhando na sustentação de sistemas acadêmicos (SIGAA e SIGADMIN) utilizando Java, JSF, JSP, Hibernate/JPA e PostgreSQL.
 
 ---
 
@@ -19,8 +19,8 @@ Estudante de Tecnologia da Informação na UFRN e apaixonado por resolver proble
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Dcoker" width="40" height="40"/>
 </p>
 
-- **Linguagens:** PHP, TypeScript, Java
-- **Frameworks/Ecossistema:** Laravel, Vue.js, Spring
+- **Linguagens:** Java, TypeScript, PHP
+- **Frameworks/Ecossistema:** Spring, Vue.js, Laravel, JSF
 - **APIs:** Desenvolvimento e consumo de APIs RESTful
 - **Banco de Dados e ORMs:** PostgreSQL, Hibernate, Eloquent
 - **Ferramentas & DevOps:** Git, Docker
